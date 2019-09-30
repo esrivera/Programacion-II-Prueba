@@ -16,6 +16,8 @@ public class Student {
     private float nota1;
     private float nota2;
     private float nota3;
+    private float nota4;
+    private float promedio;
     private String nombreEstudiante;
     private String nombreMateria;
     
